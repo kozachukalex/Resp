@@ -182,6 +182,7 @@ a.class2 {
     }
     .content2{
         width: 96%;
+        margin-left: 10px;
     }
     .profileimage{
         clear: left;
@@ -212,6 +213,7 @@ a.class2 {
     }
     .content2{
         width: 96%;
+        margin-left: 10px;
     }
     .profileimage{
         float: none;
